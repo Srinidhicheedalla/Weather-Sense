@@ -1,1 +1,3 @@
 # Weather-Sense
+
+The Weather Forecasting Web Application is a modern single-page web application designed to provide users with accurate and up-to-date weather forecasts for their location. Featuring a user-friendly interface, the application offers current weather conditions, hourly and daily forecasts, interactive maps, and customizable settings. Leveraging HTML, CSS, and JavaScript, along with Bootstrap for responsive design, API integration for real-time data retrieval, and geolocation services for automatic location detection, the project aims to streamline the process of accessing weather information, empowering users to plan their activities with confidence.
